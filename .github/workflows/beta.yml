@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/LiXiaobo1995/jh71x0_op.git
-  REPO_BRANCH: beta
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
